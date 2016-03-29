@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="6320351E-90B7-46CD-9492-7765108DD71D" kpf_version="4" name="hexdump.kpf">
+<file id="046CA63C-C161-4883-8130-07EFC8F76623" idref="6320351E-90B7-46CD-9492-7765108DD71D" name="hexdump.py" url="hexdump.py">
+</file>
+<file id="E5DD500B-A88B-492B-8C08-1440466F5EFF" idref="6320351E-90B7-46CD-9492-7765108DD71D" name="command_line.py" url="command_line.py">
+</file>
+<preference-set idref="046CA63C-C161-4883-8130-07EFC8F76623">
+  <string id="lastInvocation">default</string>
+<preference-set id="Invocations">
+<preference-set id="default">
+  <string id="postparams"></string>
+  <string id="getparams"></string>
+  <boolean id="use-console">0</boolean>
+  <string id="filename">C:\home\svn\PCC\hexdump\Python\hexdump.py</string>
+  <string id="executable-params"></string>
+  <boolean id="show-dialog">1</boolean>
+  <string id="request-method">GET</string>
+  <string id="params">test.bin</string>
+  <string id="mpostparams"></string>
+  <string id="posttype">application/x-www-form-urlencoded</string>
+  <string id="documentRoot"></string>
+  <string id="cookieparams"></string>
+  <string id="userEnvironment"></string>
+  <boolean id="sim-cgi">0</boolean>
+  <string id="cwd"></string>
+  <string id="userCGIEnvironment"></string>
+</preference-set>
+</preference-set>
+</preference-set>
+</project>
