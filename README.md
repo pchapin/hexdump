@@ -34,4 +34,4 @@ The programs in the hexdump project can also be intentionally small and trivial.
 they could serve as examples for first time programmers using the given technology.
 
 Peter C. Chapin  
-PChapin@vtc.vsc.edu
+chapinp@acm.org  
