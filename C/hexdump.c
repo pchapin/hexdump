@@ -81,7 +81,6 @@ int main( int argc, char *argv[] )
         else {
             dump( input_file , argv[i] );
             fclose( input_file );
-            putchar( '\f' );
         }
     
     return 0;
